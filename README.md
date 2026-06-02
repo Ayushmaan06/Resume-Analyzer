@@ -6,7 +6,7 @@
   <a href="https://www.python.org/downloads/release/python-3110/">
     <img alt="Python" src="https://img.shields.io/badge/python-3.11%2B-blue.svg">
   </a>
-  <a href="https://github.com/Ayushmaan06/Resume-Analyzer/blob/master/LICENSE">
+  <a href="https://github.com/Ayushmaan06/Resume-Analyzer/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg">
   </a>
   <a href="https://github.com/psf/black">
